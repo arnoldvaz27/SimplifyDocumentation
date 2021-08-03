@@ -12,7 +12,7 @@
 
 ![Thank you](https://img.shields.io/badge/Arnold%20Vaz-Thank%20you%20for%20visiting%20this%20open%20source%20library-red)
 
-### **[Simplify Library](https://github.com/arnoldvaz27/SimplifyDocumentation)**
+### **[Simplify Library](https://github.com/arnoldvaz27/Simplify)**
 ## Methods in Simplify
 
 Import the following library in the Android Activity or class:
