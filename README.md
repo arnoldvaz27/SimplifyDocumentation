@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/badge/Documentation%20For%20-Release%201.4%20and%20above-pink)
 ![Thank you](https://img.shields.io/badge/Arnold%20Vaz-Thank%20you%20for%20visiting%20this%20open%20source%20library-red)
 
-> ***For documentations of previous release 1.0 to 1.3, [Click Here](https://vazarnold27.medium.com/simplify-android-library-6683f0d271a4)***
+> ***For documentations of previous release 1.0 to 1.3, [Click Here](https://vazarnold27.medium.com/simplify-android-library-d0bcbe15dfbe)***
 >
 > ***Please read the documentation carefully (for releases from 1.4 and above), if you have any queries feel free to connect with me***
 
