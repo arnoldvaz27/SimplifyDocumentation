@@ -83,92 +83,92 @@ Java Code:
         Boolean a  = Booleans.isPalindrome("Arnold");
  ```
  
-10) **String Sentence to Array** ```Version 1.0```
+10) **String Sentence to Array** ```Version 1.1```
   ```Java
         String s = Strings.sentenceToArray("Arnold");
  ```
   
-11) **String Fibonacci Series** ```Version 1.0```
+11) **String Fibonacci Series** ```Version 1.1```
   ```Java
         String s = Strings.fibonacci(10);
  ```
   
-12) **String Factorial** ```Version 1.0```
+12) **String Factorial** ```Version 1.1```
   ```Java
         String s = Strings.factorial(5);
  ```
  
-13) **String Armstrong Number** ```Version 1.0```
+13) **String Armstrong Number** ```Version 1.1```
   ```Java
         String s = Strings.checkArmstrong(999);
  ```
  
-14) **String Prime Number** ```Version 1.0```
+14) **String Prime Number** ```Version 1.1```
   ```Java
         String s = Strings.checkPrimeNumber(10);
  ```
   
-15) **int Reverse Number** ```Version 1.0```
+15) **int Reverse Number** ```Version 1.1```
   ```Java
         int r = Integers.reverseNumber(10678);
  ```
   
-16) **int Sum of Array** ```Version 1.0```
+16) **int Sum of Array** ```Version 1.1```
   ```Java
         int [] arr = new int [] {1, 2, 3, 4, 5};
         int s = Integers.sumOfArray(arr);
         String a = String.valueOf(s);
  ```
    
-17) **float Cenigrade to Fahrenheit** ```Version 1.0```
+17) **float Cenigrade to Fahrenheit** ```Version 1.1```
   ```Java
         float s = Floats.centigradeToFahrenheit(35);
         String a = String.valueOf(s);
  ```
    
-18) **float Fahrenheit to Cenigrade** ```Version 1.0```
+18) **float Fahrenheit to Cenigrade** ```Version 1.1```
   ```Java
         float s = Floats.fahrenheitToCentigrade(96);
         String a = String.valueOf(s);
  ```
  
-19) **String Sunny Number** ```Version 1.0```
+19) **String Sunny Number** ```Version 1.2```
   ```Java
         String s = Strings.sunny(27);
  ```
  
-20) **String Punctuation** ```Version 1.0```
+20) **String Punctuation** ```Version 1.2```
   ```Java
         String s = Strings.punctuation("Hello!, I'm Arnold Vaz..");
  ```
  
-21) **String Vowels** ```Version 1.0```
+21) **String Vowels** ```Version 1.2```
   ```Java
         String s = Strings.vowels("Hello Arnold Vaz..");
  ```
  
-22) **String Consonants** ```Version 1.0```
+22) **String Consonants** ```Version 1.2```
   ```Java
         String s = Strings.consonants("Hello Arnold Vaz..");
  ```
  
-23) **String AutomorphicRange** ```Version 1.0```
+23) **String AutomorphicRange** ```Version 1.2```
   ```Java
         String s = Strings.automorphicRange(1,10000);
  ``` 
    
-24) **int Factorial Number** ```Version 1.0```
+24) **int Factorial Number** ```Version 1.2```
   ```Java
         int a = Integers.factorialNumber(5);
  ``` 
 
    
-25) **int Vowels Number** ```Version 1.0```
+25) **int Vowels Number** ```Version 1.2```
   ```Java
         int a = Integers.vowelsNumber("Arnold Vaz");
  ```
     
-26) **int Consonants Number** ```Version 1.0```
+26) **int Consonants Number** ```Version 1.2```
   ```Java
         int a = Integers.consonantsNumber("Arnold Vaz");
  ```
