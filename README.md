@@ -90,12 +90,12 @@ Java Code:
   
 11) **String Fibonacci Series** ```Version 1.0```
   ```Java
-        String s = Strings.Fibonacci(10);
+        String s = Strings.fibonacci(10);
  ```
   
 12) **String Factorial** ```Version 1.0```
   ```Java
-        String s = Strings.Factorial(5);
+        String s = Strings.factorial(5);
  ```
  
 13) **String Armstrong Number** ```Version 1.0```
@@ -122,39 +122,39 @@ Java Code:
    
 17) **float Cenigrade to Fahrenheit** ```Version 1.0```
   ```Java
-        float s = Floats.CentigradeToFahrenheit(35);
+        float s = Floats.centigradeToFahrenheit(35);
         String a = String.valueOf(s);
  ```
    
 18) **float Fahrenheit to Cenigrade** ```Version 1.0```
   ```Java
-        float s = Floats.FahrenheitToCentigrade(96);
+        float s = Floats.fahrenheitToCentigrade(96);
         String a = String.valueOf(s);
  ```
  
 19) **String Sunny Number** ```Version 1.0```
   ```Java
-        String s = Strings.Sunny(27);
+        String s = Strings.sunny(27);
  ```
  
 20) **String Punctuation** ```Version 1.0```
   ```Java
-        String s = Strings.Punctuation("Hello!, I'm Arnold Vaz..");
+        String s = Strings.punctuation("Hello!, I'm Arnold Vaz..");
  ```
  
 21) **String Vowels** ```Version 1.0```
   ```Java
-        String s = Strings.Vowels("Hello Arnold Vaz..");
+        String s = Strings.vowels("Hello Arnold Vaz..");
  ```
  
 22) **String Consonants** ```Version 1.0```
   ```Java
-        String s = Strings.Consonants("Hello Arnold Vaz..");
+        String s = Strings.consonants("Hello Arnold Vaz..");
  ```
  
 23) **String AutomorphicRange** ```Version 1.0```
   ```Java
-        String s = Strings.AutomorphicRange(1,10000);
+        String s = Strings.automorphicRange(1,10000);
  ``` 
    
 24) **int Factorial Number** ```Version 1.0```
@@ -165,10 +165,10 @@ Java Code:
    
 25) **int Vowels Number** ```Version 1.0```
   ```Java
-        int a = Integers.VowelsNumber("Arnold Vaz");
+        int a = Integers.vowelsNumber("Arnold Vaz");
  ```
     
 26) **int Consonants Number** ```Version 1.0```
   ```Java
-        int a = Integers.ConsonantsNumber("Arnold Vaz");
+        int a = Integers.consonantsNumber("Arnold Vaz");
  ```
